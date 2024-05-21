@@ -5,4 +5,4 @@ services:
   ports:
    - "8008:80"
   volumes:
-   - ./www:/var/www/html
+   - ./php:/var/www/html
