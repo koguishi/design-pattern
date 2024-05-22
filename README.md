@@ -1,6 +1,14 @@
-Projeto para estudo dos Design Patterns.
+# Design Pattern
+- Projeto para estudo dos Design Patterns.
+- Visa simular uso dos Design Patterns em situações reais.
 
-Visa simular uso dos Design Patterns em situações reais.
-
-Depois de clonar o repositório rodar na pasta do projeto:
-  docker compose up -d
+## Instalando
+- clonar o repositório
+- rodar na pasta do projeto:
+```
+docker compose up -d
+```
+- acessar a url localhost:8008/<arquivo de exemplo>
+```
+http://localhost:8008/observer-app02.php
+```
