@@ -8,7 +8,7 @@
 ```
 docker compose up -d
 ```
-- acessar a url localhost:8008/<arquivo de exemplo>
+- acessar a url localhost:8008/arquivo-exemplo.php
 ```
 http://localhost:8008/observer-app02.php
 ```
